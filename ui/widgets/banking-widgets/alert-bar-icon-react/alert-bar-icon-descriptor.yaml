@@ -1,0 +1,14 @@
+code: sd_alert_bar_icon
+titles:
+  en: SD Alert Icon
+  it: SD Icona di avviso
+group: free
+customUiPath: alert-bar-icon.ftl
+configUi:
+  customElement: sd-alert-bar-icon-config
+  resources:
+    - sd-banking/static/js/2.7845a6fb.chunk.js
+    - sd-banking/static/js/main.33535510.chunk.js
+    - sd-banking/static/js/runtime-main.b2880ffd.js
+
+# entando_resource_injection_point
